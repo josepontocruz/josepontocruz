@@ -43,10 +43,10 @@ ___
   <a href="https://www.linkedin.com/in/jrgcruz">
     <img alt="Jose Cruz | Linkedin" width="24px" src="https://github.com/josepontocruz/josepontocruz/blob/main/Assets/linkedin.svg" />
   </a> &nbsp; &nbsp;
-  <a href="https://twitter.com/josericardodev">
+  <a href="https://twitter.com/josepontocruz">
     <img alt="Jose Cruz | Twitter" width="26px" src="https://github.com/josepontocruz/josepontocruz/blob/main/Assets/twitter.svg" />
   </a> &nbsp; &nbsp;
-  <a href="https://instagram.com/josecruz.io">
+  <a href="https://instagram.com/josepontocruz">
     <img  alt="Jose Cruz | Instagram" width="24px" src="https://github.com/josepontocruz/josepontocruz/blob/main/Assets/instagram.svg" />
   </a> &nbsp; &nbsp;
   <a href="mailto:josericardo.developer@gmail.com">
