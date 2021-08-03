@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Jose Cruz!](http://josepontocruz.com) 👨🏻‍💻
+## Hey 👋, I'm [Jose Cruz!](https://www.linkedin.com/in/jrgcruz) 👨🏻‍💻
 
 &nbsp;
 
